@@ -1,0 +1,7 @@
+{
+  "name": "vista-render",
+  "version": "5.2.0",
+  "private": true,
+  "main": "src/render.js",
+  "scripts": { "start": "node src/render.js" }
+}
